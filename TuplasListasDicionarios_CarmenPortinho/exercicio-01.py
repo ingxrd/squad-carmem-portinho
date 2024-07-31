@@ -16,7 +16,7 @@
 #listas globais utilizadas no programa
 lista_resposta = []
 lista_resposta_final_sim = []
-lista_resposta_final_nao = []
+
 
 ### Historinha feita com ajuda do nosso amigo CHATGPT
 
@@ -53,8 +53,7 @@ for index, resposta_final in enumerate(lista_resposta):
     # print(resposta_final)
     if resposta_final == 'sim':
         lista_resposta_final_sim.append(resposta_final)
-    else:
-        lista_resposta_final_nao.append(resposta_final)
+
 
 #Se a pessoa responder positivamente a 2 questões ela deve ser classificada como ""Suspeita"", entre 3 e 4 como ""Cúmplice"" e 5 como ""Assassino"". Caso contrário,ele será classificado como""Inocente"".
 if len(lista_resposta_final_sim) <= 2: 
