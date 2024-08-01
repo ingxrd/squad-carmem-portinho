@@ -18,7 +18,7 @@
 
 - Maria Betânia Paiva Nunes: 
 
-- Rosicleide Aparecida Fonseca Xistulino: 
+- Rosicleide Aparecida Fonseca Xistulino: https://github.com/Xistulino
 
 - Thais D'avilla de Souza Mesquita Pereira: https://github.com/ThaisDavilla
 
